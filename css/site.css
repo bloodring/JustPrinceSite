@@ -13,6 +13,6 @@ body, html {
   background-size: cover;
 }
 
-#imageHeader{
+.imageHeader{
   height: 80px;
 }
